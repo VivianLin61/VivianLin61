@@ -23,8 +23,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
 <p align="middle">
-<img src="https://github-readme-stats.vercel.app/api?username=VivianLin61&show_icons=true&count_private=true" alt="spiderpig86" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianLin61&layout=compact&langs_count=8"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=VivianLin61&show_icons=true&count_private=true" alt="spiderpig86" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianLin61&layout=compact&langs_count=8"/> -->
 </p>
 
 <!-- ## 🗂️ Featured Projects
